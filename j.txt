@@ -1,0 +1,4 @@
+client iD
+48634327994-7o0jrp21603lovk9kjof0rrc79tj8ala.apps.googleusercontent.com
+client Secrt
+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
